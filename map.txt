@@ -1,0 +1,977 @@
+LESSON INFORMATION
+THEME: MAPPINGS AND FUNCTIONS
+WEEK: 6
+SUBJECT: FURTHER MATHEMATICS
+UNIT TOPIC: MAPPINGS AND FUNCTIONS
+LESSON TOPIC: TYPES OF MAPPINGS (FUNCTIONS)
+Specific objective: At the end of the lesson, students should be able to:
+I.
+Define mapping;
+II.
+Define function;
+III.
+Distinguish between mappings and functions;
+IV.
+State types of mappings;
+V.
+Solve problems which involve function and its inverse
+INSTRUCTIONAL RESOURCE: Charts showing examples of series with their nth term
+LESSON PRESENTATION
+The teacher present his lesson step by step as shown below; first asking the students questions based on
+previous lesson; for example, mention state and capital in Nigeria Etc.
+STEP I
+Identification of prior ideals, for example, the teacher arouses students’ interest by asking them
+questions based on previous lesson for example; Mention ten surnames and names of your class mate
+Etc.
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+MAPPINGS
+Definition: Given two non-empty sets A and B, if there is a rule, which assigns an element 𝑥 ∈ 𝐴 a
+unique element 𝑦 ∈ 𝐵, then, the rule is called MAPPING
+Example
+If
+𝐴 = {1,2,3,4,5} And 𝐵 = {1,4,9,16,25}
+It can be represented by arrow diagram as;
+f
+A
+
+B
+
+1
+2
+22
+3
+4
+5
+
+1
+4
+9
+16
+25
+
+The above representation is called an arrow diagram of mapping
+From above representation, the set A is called domain (Pre-image) of the mapping, while the set B is
+called co- domain (Image) of mapping
+The mapping between the sets can be represented by any of the following notation
+f
+
+A
+
+B
+
+Or
+f:A
+Or
+
+B
+
+f(x) = y ∀x ∈ A ∃ y ∈ B
+Where y is the unique element in B which corresponding to the element x in A
+Examples of mappings are;
+
+1.
+
+f
+X
+
+Y
+
+a
+b
+22
+
+f
+
+c
+d
+e
+
+Co-domain is {f} while Domain is {a, b, c, d, e} and Range is {f}
+X
+
+Y
+
+2.
+
+Nigeria
+Cameroon
+Ghana
+
+Nairobi
+Accra
+Abujato
+Abuja
+
+Pre-image is {Nigeria, Cameroon, Ghana}, image is {Nairobi, Accra, Abujato, Abuja, Yaoundé} while
+Range is {Accra, Abuja, Yaoundé}
+3.
+
+f
+P
+
+Q
+
+2
+25
+
+5
+22
+
+16
+
+3
+
+9
+
+4
+
+4
+
+Co-domain is {2, 3, 4, 5}, Domain is {4, 9, 16, 25} and Range is {4, 9, 16, 25}
+CONDITIONS FOR MAPPING
+Two important conditions that must be satisfied if a relation is to be a mapping are;
+i. Every element of the domain has an image in the co-domain
+ii. The image of every element of the domain is unique
+The following are not mapping;
+1.
+f
+X
+
+Y
+
+2
+3
+22
+4
+5
+
+9
+16
+25
+
+2.
+
+f
+A
+
+B
+
+1
+1
+
+2
+22
+
+4
+
+3
+
+9
+
+4
+
+16
+
+5
+
+25
+
+3.
+
+f
+A
+
+B
+
+Tola
+
+Femi
+
+22
+Tosin
+
+Folu
+
+Tolu
+
+Fola
+
+Tobi
+
+Falola
+
+STUDENTS ACTIVITIES
+Consider the relation in diagram below and say whether they are mapping or not, hence, find the
+domain (pre-image), co-domain (image) and the range of the mapping
+a.
+
+f
+A
+
+B
+
+1
+2
+22
+3
+4
+
+0
+
+b.
+
+f
+A
+
+B
+
+Tola
+
+Femi
+
+22
+Tosin
+
+Folu
+
+Tolu
+
+Fola
+
+Tobi
+
+c.
+
+g
+X
+
+Tola
+
+22
+Tosin
+Tolu
+Tobi
+
+d.
+
+Y
+
+Femi
+Folu
+Fola
+
+f
+A
+
+B
+
+Tola
+
+Femi
+
+22
+Tosin
+
+Folu
+
+Tolu
+
+Fola
+
+STEP II
+Exploration; facts find about the lesson objectives, using the resources around
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+FUNCTION
+Definition: A function is a mapping whose co-domain is the set of numbers
+Example
+1.
+
+f
+P
+
+Q
+
+2
+5
+22
+3
+4
+
+25
+16
+9
+4
+
+Co-domain is {2, 3, 4, 5}, Domain is {4, 9, 16, 25} and Range is {4, 9, 16, 25}
+
+2.
+
+g
+X
+
+Y
+
+f
+25
+
+g
+22
+
+16
+
+h
+
+9
+
+i
+
+4
+
+STUDENTS ACTIVITIES
+Which of the following represent functions?
+1.
+
+N
+
+M
+0
+2
+
+2
+
+3
+A
+2.
+
+N
+
+a
+
+1
+
+b
+
+2
+
+c
+
+N
+3.
+
+3
+
+A
+
+1
+
+a
+
+2
+
+b
+
+3
+
+N
+
+c
+
+N
+
+4.
+
+1
+
+1
+
+2
+
+2
+
+3
+
+A
+5.
+
+a
+b
+c
+
+3
+
+A
+a
+b
+c
+
+STEP III
+Discussion of types of mappings
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+TYPES OF MAPPINGS
+ONE TO ONE MAPPING
+Definition: Let 𝑓: 𝑋
+𝑌 be the mapping that establishes the correspondence between the sets X
+and Y. The mapping f is called a one to one mapping if different elements in the domain X have different
+images in the co-domain Y. Thus, 𝑓: 𝑋
+𝑌 is one to one mapping if 𝑓 (𝑥1 ) = 𝑓(𝑥2 ) implies 𝑥1 = 𝑥2
+or 𝑥1 ≠ 𝑥2 implies 𝑓 (𝑥1 ) ≠ 𝑓(𝑥2 )
+𝐸𝑥𝑎𝑚𝑝𝑙𝑒
+1. The mapping which assigh each Secondary School in F.C.T in Nigeria with its principal is on – one
+mapping
+2. The mapping which assign eac form masters/mistress in Gssbwari with its classes is a one – one
+mapping
+3. The mapping which associate each state in Nigeria with its governior is one – one mapping
+4. Let X be the set of real numbers and 𝑓: 𝑋 → 𝑌 be a mapping defined by 𝑓(𝑥) = 2𝑥 + 3, then f is a one
+– one mapping since every element in X has a distinct image in Y
+
+ONTO MAPPING
+Definition: Let 𝑓: 𝑋 → 𝑌 be a mapping from set X to the set Y. The mapping f is called an onto mapping if
+every element of the codomain is an image of at least one element in the domain. Hence 𝑓: 𝑋 → 𝑌 is
+onto mapping if range of the mapping is equal to the codomain
+Example 1
+Let the mapping g: 𝑋 → 𝑌 be defined by
+
+X
+a
+b
+c
+
+g
+
+Y
+e
+f
+g
+
+d
+
+The range of the mapping is equal to the co-domain, hence the mapping is onto
+Example 2
+Let the mapping f: 𝑋 → 𝑌be defined by 𝑓(𝑥) = 2𝑥 + 3. Determine wheather mapping is onto
+Solution
+Let 0, ±1, ±2, ±3 ∈ 𝑋
+𝑓 (0) = 3, 𝑓 (1) = 5, 𝑓 (−1) = 1, 𝑓(2) = 7, 𝑓(−2) = −1, 𝑓 (3) = 9 𝑎𝑛𝑑 𝑓 (−3) = −3
+The range of the mapping is equal to the co- domain. Hence the mapping is one – one and onto mapping
+
+X
+
+Y
+
+0
+
+3
+
+-1
+
+1
+
+1
+
+5
+
+-2
+
+-1
+
+2
+
+7
+
+-3
+
+-3
+
+3
+
+9
+
+STUDENTS ACTIVITIES
+Verify if the mapping below is an onto mapping
+P
+
+h
+
+Q
+
+a
+
+e
+
+b
+
+f
+
+c
+
+g
+
+d
+
+STEP IV
+
+N
+
+S
+
+Taiwo
+
+1
+
+Maruf
+
+2
+
+hamuzat
+
+3
+
+Evaluation: Assessment for learning through questions relevant to the lesson objectives use of three
+point rubrics with 3 has the highest score and 1 the least for assessing learning outcome, for example,
+what is ONTO mapping? Etc.
+
+ASSIGNMENT
+The mapping is defined by the arrow diagram as show below
+X
+-3
+2
+5
+
+Y
+16
+4
+7
+8
+
+Determine
+(a). The domain (b) The co- domain (c) The range of the function (d) Is the mapping 1-1 or onto?
+REFRENCES
+Further Mathematics for SSS by Longman
+New further mathematics project 1 page 99
+Hidden facts in further mathematics by M.A Otumudia
+
+LESSON INFORMATION
+THEME: MAPPINGS AND FUNCTIONS
+DATE:
+CLASS: SS 1A, B, C, I, J, & K
+TIME:
+DURATION:
+Period:
+SUBJECT: FURTHER MATHEMATICS
+UNIT TOPIC: MAPPINGS AND FUNCTIONS
+LESSON TOPIC: SPECIAL MAPPINGS/FUNCTIONS
+Specific objective: At the end of the lesson, students should be able to:
+I.
+Identify special mappings;
+II.
+Distinguish the type of mappings and functions;
+III.
+Solve problems which involves functions;
+IV.
+Solve problems involves functions and its inverse
+INSTRUCTIONAL RESOURCE: Charts of special mappings and functions
+LESSON PRESENTATION
+The teacher present his lesson step by step as shown below; first asking the students questions based on
+previous lesson; for example, what is mapping/function? Etc.
+STEP I
+Identification of prior ideals, for example, the teacher arouses students’ interest by asking them
+questions based on previous lesson for example; what is onto mapping? Etc.
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+IDENTITY MAPPINGS
+Definition: Let 𝑓𝑖 : 𝑋 → 𝑋 be a mapping define by 𝑓𝑖 (𝑥) = 𝑥 ∀𝑥 ∈ 𝑋 then 𝑓𝑖 is called an identity mapping
+if it take an element onto itself
+Examples of identity mapping are;
+𝑓𝑖
+(a)
+
+X
+
+X
+
+1
+2
+22
+3
+4
+5
+
+1
+2
+3
+4
+5
+
+(b)
+
+f
+N
+
+N
+
+Tola
+
+Tola
+
+22
+Tosin
+
+Tosin
+
+Tolu
+
+Tolu
+
+Tobi
+
+Tobi
+
+The above mappings are identity mappings, they are one – one and onto mappings, identity mappings
+has a unique property that the domain, co- domain and range are all equal
+CONSTANT MAPPINGS
+Definition: Let 𝑓𝑐 : 𝑋 → 𝑌 be a mapping which assigns every 𝑥 ∈ 𝑋 the same image K, 𝑓𝑐 is called a
+constant mapping if for every 𝑥 ∈ 𝑋, 𝑓𝑐 (𝑥) = 𝐾 where K is a constant
+Example
+𝑓𝑐
+X
+
+Y
+An essential feature of a
+
+constant
+
+Tola
+Tosin22
+
+consists
+
+TiTi
+mapping is that the range
+
+Tolu
+Tobi
+
+Only one element
+
+𝑓𝑐
+X
+
+X
+
+1
+11
+
+2
+22
+
+𝑓𝑐 (𝑥) = 0𝑥 2
+
+-2
+
+3
+
+0
+
+4
+
+14
+
+5
+
+55
+
+STUDENTS ACTIVITIES
+Give five examples of identity and constant mappings each
+STEP II
+Exploration; facts find about the lesson objectives, using the resources around
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+INVERSE FUNCTIONS
+Definition: A function f(x) has an inverse if it is both one- one and onto. The inverse function is written
+as 𝑓 −1 (𝑥). The inverse function does the opposite operation of the function
+
+𝑓(𝑥)
+y
+
+x
+𝑓 −1 (𝑥)
+
+Example 1
+
+A
+
+1.
+
+a
+b
+c
+
+N
+𝑓(𝑥)
+
+1
+2
+3
+
+N
+1
+
+A
+𝑓 −1 (𝑥)
+
+2
+3
+
+a
+b
+c
+
+The relation 𝑓 −1 (𝑥) is a mapping and it is called the inverse of the function f
+Example 2
+Find the inverse of 𝑓 −1 (𝑥) if 𝑓(𝑥) = 2𝑥 + 3
+
+Solution
+𝑓 (𝑥) = 2𝑥 + 3
+2𝑥 = 𝑓 (𝑥) − 3
+𝑥=
+
+𝑓 (𝑥) − 3
+2
+
+𝑓 −1 (𝑥) =
+
+𝑥−3
+2
+
+Example 3
+Find the inverse of 𝑔−1 (𝑥) if g(𝑥) = 𝑥 3
+Solution
+𝑔(𝑥) = 𝑥 3
+3
+
+𝑥 = √𝑔(𝑥)
+= 𝑔−1 (𝑥)
+= 3√𝑥
+STUDENTS ACTIVITIES
+
+For the following functions find their inverse
+(i) h(x) = x − 11 (ii)f(x) = 5x (iii) g(x) =
+
+x+5
+7
+
+(iv)f(x) =
+
+x2−2x
+7
+
+x+1
+
+(v)f(x) =
+x−3
+
+5+x
+
+(vi) d(x) = (2x + 6)3 (vii) IF g(x) =
+, find g(0) + g −1 (1)
+2x−6
+STEP III
+Discussion of domain and range of mappings
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+DOMAIN AND RANGE OF MAPPINGS
+Example 1: Determine the domain 𝔇 of the mapping 𝑓: 𝑋 → 2𝑥 − 3, 𝑖𝑓 ℛ = {−3, −1, 5} is the range and
+f is defined on 𝔇
+Solution
+𝑓 (𝑥) = 2𝑥 − 3
+𝑓 (𝑥) + 3 = 2𝑥
+𝑥=
+
+𝑓(𝑥) + 3
+2
+
+𝑊ℎ𝑒𝑛 𝑓(𝑥) = −1, 𝑥 = 1
+𝑊ℎ𝑒𝑛 𝑓(𝑥) = 5, 𝑥 = 4
+𝑊ℎ𝑒𝑛 𝑓(𝑥) = −3, 𝑥 = 0
+Therefore, domain is {0, 1, 4}
+Example 2
+Determine the domain of the mapping 𝑔: 𝑥 → 2𝑥 2 − 1, if range of the mapping is {1, 7, 17} and g is
+defined on domain
+Solution
+𝑔(𝑥) = 2𝑥 2 − 1
+𝑔(𝑥) + 1 = 2𝑥 2
+
+𝑔(𝑥) + 1
+𝑥=√
+2
+When
+𝑔(𝑥) = 1
+1+1
+𝑥=√
+= ±1
+2
+When
+𝑔(𝑥) = 7
+7+1
+𝑥=√
+= ±2
+2
+When
+𝑔(𝑥) = 17
+17 + 1
+𝑥=√
+= ±3
+2
+𝐷𝑜𝑚𝑎𝑖𝑛 = {±1, ±2, ±3}
+Example 3: 𝑓: 𝑥 → 2𝑥 + 2 is a mapping defined on the set R of real number. Determine the pre-image of
+{-1, 1, 7, -5}. [Ans. {-1, -2, 2, -4}]
+Example 4: Given that ℎ: 𝑥 → 𝑥 2 + 2𝑥 − 3 is a mapping defined on the set 𝐴 = {−1, 0, 1, 2}. Find the
+range of h
+Solution
+ℎ(𝑥) = 𝑥 2 + 2𝑥 − 3
+When
+𝑥 = −1
+ℎ(−1) = 1 − 2 − 3 = −4
+When
+𝑥=0
+
+ℎ(0) = 02 + 2(0) − 3 = −3
+When
+𝑥=1
+ℎ(1) = 12 + 2 − 3 = 0
+When
+𝑥=2
+ℎ(2) = 22 + 2(2) − 3 = 5
+Therefore, Range = {−4, −3, 0, 5}
+STUDENTS ACTIVITIES
+2x−1
+
+2
+
+f(x) = 3x+2 ; (x ≠ − 3). Find 𝑓 −1 (𝑥) and hence the largest domain of 𝑓 −1 (𝑥)
+STEP IV
+Discussion of composite mappings
+MODE: ENTIRE CLASS
+TEACHER’S ACTIVITIES
+COMPOSITE MAPPING
+Definition: let 𝑓: 𝑋 → 𝑍 𝑎𝑛𝑑 𝑔: 𝑍 → 𝑌 be two mappings such that the co- domain of f is the domain of g
+X
+
+Z
+
+Y
+𝑔𝑜𝑓(𝑝) = 𝑔(𝑎) = 𝑥
+
+P
+
+a
+
+q
+
+b
+
+r
+
+c
+
+s
+
+d
+
+x
+y
+z
+
+𝑔𝑜𝑓(𝑞) = 𝑔(𝑐) = 𝑥
+𝑔𝑜𝑓(𝑟) = 𝑔(𝑏) = 𝑧
+𝑔𝑜𝑓(𝑠) = 𝑔(𝑑) = 𝑦
+
+The mapping 𝑔𝑜𝑓 is called a composite mapping. It is sometimes written as 𝑔𝑓. The composite mapping
+can also be represented vector ally as
+
+𝑔𝑜𝑓
+𝑓
+
+𝑔
+Example 1: Let 𝑓: 𝑋 → 𝑌 and 𝑔: 𝑌 → 𝑍 be mappings on the set of real numbers R defined by 𝑓(𝑥) = 𝑥 +
+1 and 𝑔(𝑦) = (𝑦 + 1)2 Find (i) 𝑔𝑜𝑓 (ii) 𝑓𝑜𝑔
+Solution
+(i)
+𝑔𝑜𝑓
+= 𝑔𝑓 (𝑥)
+= 𝑔(𝑥 + 1)
+= [(𝑥 + 1) + 1]2
+= (𝑥 + 2)2
+= 𝑥 2 + 2𝑥 + 4
+(ii)
+𝑓𝑜𝑔 = 𝑓𝑔(𝑦) = 𝑓(𝑦 + 1)2 = (𝑦 + 1)2 + 1 = 𝑦 2 + 2𝑦 + 2
+Example 2: Let the mapping f and g be mappings on the set of real number R be defined by 𝑓(𝑥) =
+2𝑥 2 − 3 and 𝑔(𝑥) = 𝑥 + 1, find (i) 𝑔𝑜𝑓 (ii) 𝑓𝑜𝑔
+(i)
+𝑔𝑜𝑓
+= 𝑔𝑜𝑓(𝑥)
+= 𝑔(2𝑥 2 − 3)
+= 2𝑥 2 − 2
+
+(ii)
+𝑓𝑜𝑔
+= 𝑓𝑜𝑔(𝑥)
+= 𝑓 (𝑥 + 1)
+= 2(𝑥 2 + 2𝑥 + 1) − 3
+= 2𝑥 2 + 4𝑥 − 1
+Example 3: Let 𝑓𝑖 be the identity mapping and f be the mapping on the set of real number defined by
+𝑓𝑖 (𝑥) = 𝑥 𝑎𝑛𝑑 𝑓 (𝑥) = 𝑥 2 + 1 respectivelly, show that 𝑓𝑖 𝑜𝑓 = 𝑓𝑜𝑓𝑖
+Solution
+𝑓𝑖 𝑜𝑓 = 𝑓𝑖 𝑜𝑓(𝑥) = 𝑓𝑖 (𝑥 2 + 1) = 𝑥 2 + 1
+𝑓𝑜𝑓𝑖 = 𝑓𝑜𝑓𝑖 (𝑥) = 𝑓(𝑥) = 𝑥 2 + 1
+Therefore,
+𝑓𝑖 𝑜𝑓 = 𝑓𝑜𝑓𝑖
+STUDENTS ACTIVITIES
+If f, 𝑔 and h are mappings defined on the set of real numbers by 𝑓 (𝑥) = 3𝑥 + 1, 𝑔(𝑥) = 2𝑥 −
+1 𝑎𝑛𝑑 ℎ (𝑥) = 𝑥 2 . Find; (𝐼)𝑓𝑜𝑔 (𝐼𝐼)𝑔𝑜𝑓 (𝐼𝐼𝐼 )ℎ𝑜𝑓 (𝐼𝑉)𝑓𝑜𝑔𝑜ℎ (𝑉)𝑓 −1 𝑜𝑔−1 𝑜ℎ −1 (VI) 𝑓𝑜𝑔𝑜ℎ(𝑥)
+STEP V
+Evaluation: Assessment for learning through questions relevant to the lesson objectives use of three
+point rubrics with 3 has the highest score and 1 the least for assessing learning outcome, for example,
+what is composite mapping? Etc.
+ASSIGNMENT
+2𝑥
+
+1. The function f and g are defined over R as follows 𝑓: 𝑥 → 𝑥 2 + 2, 𝑔: 𝑥 → 1−𝑥 (𝑥 ≠ 1) Find
+(𝑖 ) 𝑓𝑜𝑔 (𝑖𝑖 )𝑓𝑜𝑔(4) (𝑖𝑖𝑖 ) 𝑔𝑜𝑓(1)
+2. If 𝑓𝑔(𝑥) = 𝑥 2 + 2𝑥 + 1 𝑎𝑛𝑑 𝑓 (𝑥) = 𝑥 2 𝐹𝑖𝑛𝑑 𝑔(𝑥) [𝐴𝑛𝑠. 𝑔(𝑥) = √𝑥 2 + 2𝑥 + 1]
+3. Two functions f and g are defined on the set of real numbers R by; 𝑓: 𝑥 → 𝑥 2 − 2𝑥 − 1 and : 𝑥 → 𝑥 −
+1 . Find the value of x for which 𝑓 (𝑥) = 𝑔(𝑥) − 2
+4. Let the function 𝑓: 𝑅 → 𝑅 be defined by
+
+4𝑥 − 7 𝑖𝑓 𝑥 > 3
+𝑓 (𝑥)
+
+𝑥 2 − 3 𝑖𝑓 − 2 ≤ 𝑥 ≤ 3
+2𝑥 + 3 𝑖𝑓 𝑥 < −2
+
+Find 𝑓 −1 (5) (𝑖𝑖 ) 𝑓 −1 (−5) 𝑎𝑛𝑑 (𝑖𝑖𝑖) 𝑓(0)
+5. If 𝑔(𝑥) =
+1
+
+𝑥+1
+𝑥+2
+
+is a mapping defined on the set of real number, excluding -2; find;
+1
+
+1
+
+(𝑎) 𝑔−1 ( ) (𝑏)𝑔−1 ( ) × 𝑔(0) (𝑐)𝑔−1 ( ) + 𝑔(1)
+2
+2
+2
+6. Given that 𝑓: 𝑥 → 𝑎𝑥 2 + 𝑏𝑥 is a mapping on the set of real numbers, given that 𝑓 (1) =
+5 𝑎𝑛𝑑 𝑓 (−1) = −1. Determine the value of a and b
+REFRENCES
+Further Mathematics for SSS by Longman
+New further mathematics project 1 page 105
+Hidden facts in further mathematics by M.A Otumudia
+
+
